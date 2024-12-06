@@ -128,7 +128,6 @@ namespace AdventOfCode2024.Day4
             foreach (string row in dataSL)
             {
                 MatchCollection matchesSL = Regex.Matches(row, regexPattern);
-                indexesSL.Add(  )
             }
 
             Console.WriteLine($"Day 4 Second Task Solution: {solution}");

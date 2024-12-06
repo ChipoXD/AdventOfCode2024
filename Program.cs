@@ -18,6 +18,9 @@ namespace AdventOfCode2024
 
             Day4.Day4.SolveFirst();
 
+            Day6.Day6.SolveFirst();
+            Day6.Day6.SolveSecondParallelized();
+
             Console.Read();
         }
     }
